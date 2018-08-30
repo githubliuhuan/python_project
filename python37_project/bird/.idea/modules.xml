@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../UDesk/.idea/UDesk.iml" filepath="$PROJECT_DIR$/../UDesk/.idea/UDesk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bird.iml" filepath="$PROJECT_DIR$/.idea/bird.iml" />
+      <module fileurl="file://E:/python26_project/.idea/python26_project.iml" filepath="E:/python26_project/.idea/python26_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../算法/.idea/算法.iml" filepath="$PROJECT_DIR$/../算法/.idea/算法.iml" />
+    </modules>
+  </component>
+</project>
