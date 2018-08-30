@@ -7,10 +7,7 @@ def bubble_sort(lists):
                 print(lists)
                 lists[j], lists[j + 1] = lists[j + 1], lists[j]
     return lists
-
-
-
-
+# -----------------
 # print('--------')
 # print('错误示范')
 # def bubble_sortt(lists):
