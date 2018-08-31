@@ -38,6 +38,6 @@ if __name__ == '__main__':
     url = 'https://www.yidai.com/user/login/'
     user = useragent()
     headers = {'User-Agent':user}
-    data = {"username": "Database", "password": "testing"}
+    data = {"keywords": "17600664547", "password": "yidailiuhuan1."}
     ret = requests.get(url, data = data, headers = headers, timeout = 500)
-    print(ret.text)
+    print(ret)
