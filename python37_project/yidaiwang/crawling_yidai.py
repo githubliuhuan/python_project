@@ -35,9 +35,9 @@ def useragent():
 
 if __name__ == '__main__':
 
-    url = 'https://www.yidai.com/user/login/'
+    url = 'https://www.yidai.com/transfer/a532450.html'
     user = useragent()
     headers = {'User-Agent':user}
     data = {"keywords": "17600664547", "password": "yidailiuhuan1."}
-    ret = requests.get(url, data = data, headers = headers, timeout = 500)
-    print(ret)
+    ret = requests.get(url, headers = headers, timeout = 500)
+    print(ret.text)
