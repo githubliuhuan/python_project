@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GBDT_Simple_Tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sofasofa-learn" vcs="Git" />
   </component>
 </project>
